@@ -36,13 +36,13 @@ video{
    
 }
 
-.rounded{
+.no-outline{
     background-image: linear-gradient(rgb(180, 180, 168),rgb(234, 173, 240));
     color: white;
-    box-shadow: none;
+    /* box-shadow: none;
     align-items: center;
     box-shadow: 1;
-    border: none;
+    border: none; */
    
 }
 input:focus{
