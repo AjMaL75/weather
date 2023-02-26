@@ -41,6 +41,7 @@ video{
     align-items: center;
     box-shadow: 1;
     border: none;
+    overflow:hidden;
 }
 input:focus{
     outline: none;
